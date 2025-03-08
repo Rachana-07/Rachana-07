@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rachana-07
+- 👋 Hi, I’m Rachana Acharya - CSE student in SRMAP.
 - 👀 I’m interested in Artificial Intelligence,Machine Learning,App Developemnt using Java, Data Science, and Software Development
 - 🌱 I’m currently learning Power BI, AI/ML,Java,Cloud Computing and Data Visualization
 - 💞️ I’m looking to collaborate on AI/ML research projects, data analysis, and coding challenges.
